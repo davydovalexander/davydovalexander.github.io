@@ -47,7 +47,7 @@ Conference Publications
 Preprints and Publications Under Review
 ------
 
-* <b> Alexander Davydov</b>, Veronica Centorrino, Anand Gokhale, Giovanni Russo, and Francesco Bullo. “Contracting Dynamics for Time-Varying Convex Optimization,” <i>IEEE Transactions on Automatic Control</i>, June 2023. [[URL](https://arxiv.org/abs/2305.15595)]
+* <b> Alexander Davydov</b>, Veronica Centorrino, Anand Gokhale, Giovanni Russo, and Francesco Bullo. “Contracting Dynamics for Time-Varying Convex Optimization,” <i>IEEE Transactions on Automatic Control</i>, June 2023. [[URL](https://arxiv.org/abs/2305.15595)] <b>Submitted</b>
 
 * <b>Alexander Davydov</b><sup>*</sup>, Saber Jafarpour<sup>*</sup>, Anton V. Proskurnikov, and Francesco Bullo. “Non-Euclidean Monotone Operator Theory and Applications,” <i>Journal of Machine Learning Research</i>, May 2023. [[URL](https://arxiv.org/abs/2303.11273)] <b>Submitted</b>
 
