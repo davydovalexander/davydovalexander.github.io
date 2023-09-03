@@ -29,7 +29,7 @@ Journal Publications
 Conference Publications
 ------
 
-* Xiaotian Xu, <b>Alexander Davydov</b>, and Yancy Diaz-Mercado. “On the Equivalence of Multi-Agent 2D Coverage Control and Leader-Follower Consensus Network,” <i>American Control Conference</i>, pp. 503-508, June 2023. [[DOI](https://doi.org/10.23919/ACC55779.2023.10156475)] [[URL](https://davydovalexander.github.io/files/XX-AD-PRO-YDM23.pdf)]
+* Xiaotian Xu, <b>Alexander Davydov</b>, and Yancy Diaz-Mercado. “On the Equivalence of Multi-Agent 2D Coverage Control and Leader-Follower Consensus Network,” <i>American Control Conference</i>, pp. 503-508, June 2023. [[DOI](https://doi.org/10.23919/ACC55779.2023.10156475)] [[URL](https://davydovalexander.github.io/files/XX-AD-YDM23.pdf)]
 
 * <b>Alexander Davydov</b><sup>*</sup>, Saber Jafarpour<sup>*</sup>, Anton V. Proskurnikov, and Francesco Bullo. “Non-Euclidean Monotone Operator Theory with Applications to Recurrent Neural Networks,” <i>IEEE Conference on Decision and Control</i>, pp. 6332-6337, Dec. 2022. [[DOI](https://doi.org/10.1109/CDC51059.2022.9993197)]
 
