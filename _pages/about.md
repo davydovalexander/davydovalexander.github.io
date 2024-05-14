@@ -18,6 +18,7 @@ Outside of academics, I am a competitive chess player with titles of chess exper
 
 <b>Recent Updates</b>
 
+* June 2024: I am an intern at Toyota Research Institute within their ([Human Interactive Driving Group](https://www.tri.global/our-work/human-interactive-driving)). I will be working on problems surrounding robustness to uncertainty.
 * December 2023: I am traveling to New Orleans for NeurIPS 2023, where I will give an oral presentation at the Associative Memory & Hopfield Networks workshop based on the paper "Retrieving k-Nearest Memories with Modern Hopfield Networks" ([link](https://openreview.net/forum?id=bNBMnQXRJU)) which was done in collaboration with Sean Jaffe, Ambuj Singh, and Francesco Bullo.
 * June 2023: Our 2022 ACC article "Non-Euclidean Contractivity of Recurrent Neural Networks" ([link](https://ieeexplore.ieee.org/abstract/document/9867357)) with Anton Proskurnikov and Francesco Bullo, received the 2023 O. Hugo Schuck Best Paper Award from the American Automatic Control Council!
 * May 2023: We posted a preprint on [Contracting Dynamics for Time-Varying Convex Optimization](https://arxiv.org/abs/2305.15595) - read about how we can use contraction theory to track optimal trajectories in time-varying optimization problems!
