@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in mechanical engineering at the University of California, Santa Barbara (UCSB) where I am advised by [Francesco Bullo](http://motion.me.ucsb.edu/). I was awarded the NSF Graduate Research Fellowship in Spring 2021. I am broadly interested in studying machine learning tools such as neural networks and optimizers from the viewpoint of dynamical systems and control theory. In Spring 2020, I graduated with a B.S. in mechanical engineering and a B.S. in mathematics from the University of Maryland (UMD). While at UMD, I worked with [Yancy Diaz-Mercado](https://eng.umd.edu/clark/faculty/900/Yancy-Diaz-Mercado) on multi-robot coverage control and its applications. 
+I am a PhD candidate in mechanical engineering at the University of California, Santa Barbara (UCSB) where I am advised by [Francesco Bullo](http://motion.me.ucsb.edu/). My research is on modern data-driven engineering problems at the intersection of control, machine learning, and optimization. I am broadly interested in robust nonlinear control theory and modern machine learning to enable reliable control of complex engineering systems. I was awarded the NSF Graduate Research Fellowship in Spring 2021. In Spring 2020, I graduated with a B.S. in mechanical engineering and a B.S. in mathematics from the University of Maryland (UMD). While at UMD, I worked with [Yancy Diaz-Mercado](https://eng.umd.edu/clark/faculty/900/Yancy-Diaz-Mercado) on multi-robot coverage control and its applications. 
 
 While an undergraduate student at UMD, I worked internships at NASA Goddard Space Flight Center, MIT Lincoln Lab, and The Johns Hopkins University Applied Physics Lab. 
 
