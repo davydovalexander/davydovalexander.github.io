@@ -5,55 +5,44 @@ permalink: /projects/
 author_profile: true
 ---
 
-My research interests are broadly in the stability, robustness, and functional properties of nonlinear networks. My major thrusts can be categorized as: 1) dynamical properties of neural networks, 2) contraction theory and monotone operators for control and learning, and 3) multi-robot coverage control.
+My research interests are broadly in the stability and safety of complex engineering systems, especially those equipped with optimization- or learning-based controllers. I am interested in mathematically formalizing unifying principles within engineering design and endowing control systems with strong stability and
+safety guarantees. My major thrusts can be categorized as: 1) design principles for engineering systems, 2) robust machine learning, and 3) reliable control of complex systems. I have also worked on optimal multi-robot coverage control and tracking problems for multi-robot teams.
 
 ***
-# Dynamical Properties of Neural Networks
+# Design principles for engineering systems
 
-Neural networks are a simple yet powerful class of deep learning architectures whose primary task is to provide a mathematical representation of some complex underlying physical process. I have been interested in studying the properties of various classes of dynamical neural networks, focusing on Hopfield neural networks and other firing-rate models. I have investigated conditions under which these dynamical models are contracting and thus have strong robustness guarantees. I am currently interested in functional properties of neural networks, i.e., given a neural network, what is the optimization problem it is solving? I am also interested in multistability in Hopfield networks and computational properties of modern Hopfield networks. 
+Modern engineering systems are often described by complex dynamics and have intricate environmental interactions. Given these challenges, how should we design systems so they are endowed strong stability and safety guarantees? In this line of work, I have used tools from contraction theory, monotone operator theory, and convex optimization as frameworks to provide rigorous guarantees for systems. I have provided necessary and sufficient conditions for contraction and have proved novel desirable properties arising from contracting systems including (i) discretization algorithms for maintaining contraction properties, (ii) tracking error bounds for contracting dynamics following a time-varying reference, and (iii) novel feedforward control design for exact tracking guarantees.
 
 <ul>
-  <li>Contractivity of Continuous-Time Neural Networks [<a href="https://arxiv.org/abs/2110.08298">URL</a>] </li>
+  <li>Non-Euclidean Contraction Theory [<a href="https://arxiv.org/abs/2103.12263">URL</a>] </li>
+  <li>Non-Euclidean Monotone Operator Theory [<a href="https://arxiv.org/abs/2303.11273">URL</a>] </li>
+  <li>Monotone and Positive Systems [<a href="https://arxiv.org/abs/2104.01321">URL</a>] </li>
+  <li>Non-Euclidean S-Lemma [<a href="https://arxiv.org/abs/2207.14579">URL</a>] </li>
 </ul>
 
-In the direction of machine learning, I have studied deep equilibrium networks (DEQs) which are a class of neural networks where layers are replaced by implicit fixed-point equations. In this line of work, I have provided novel sufficient conditions for the well-posedness of DEQs and have provided novel training algorithms for them. I have also studied the robustness of DEQs using contraction theory and mixed monotonicity theory to provide rigorous certificates for the provable robustness of these architectures. 
+***
+# Robust machine learning
+
+Machine learning and optimization methods are increasingly being used for safety-critical applications. Motivated by these applications, how can we ensure that methods based upon machine learning and optimization are behaving as expected? To tackle this challenge, I have studied input-output properties of classes of neural networks including recurrent neural networks (RNNs), deep equilibrium networks (DEQs), and neural ODEs. For each of these architectures, I have studied explicit estimates for the Lipschitz constant and designed novel, scalable algorithms to train them to be robust to adversarial perturbations. For optimizers, I have studied online algorithms to solve time-varying convex optimization problems and have shown how we can use contracting dynamical systems based on time-varying convex optimization to design novel optimization-based controllers for safety-critical tasks.
 
 <ul>
   <li>Well-posedness of DEQs and Lipschitz Constants [<a href="https://arxiv.org/abs/2106.03194">URL</a>] </li>
   <li>Training of Robust DEQs [<a href="https://arxiv.org/abs/2204.00187">URL</a>] </li>
-  <li>Verification of DEQs using Mixed Monotonicity [<a href="https://arxiv.org/abs/2112.05310">URL</a>] </li>
-</ul>
-
-***
-# Contraction Theory and Monotone Operators for Control and Learning
-
-Contraction theory is a framework of nonlinear robust stability for dynamical systems. A dynamical system is said to be contracting if any two trajectories come together at an exponential rate in some metric. Contraction is a continuous-time analogy of the classical contraction mapping theorem and implies many strong stability and robustness properties of the underlying system. I am interested in fundamental questions at the heart of non-Euclidean contraction theory, i.e., when a system is contracting with respect to a non-Euclidean norm. Broadly speaking, I am interested in creating non-Euclidean analogs of many of the classical linear-quadratic problems that we are taught in our controls courses and providing computationally scalable strategies to solve them. 
-    
-<ul>
-  <li>Non-Euclidean Contraction Theory [<a href="https://arxiv.org/abs/2103.12263">URL</a>] </li>
-  <li>Non-Euclidean Contraction for Monotone and Positive Systems [<a href="https://arxiv.org/abs/2104.01321">URL</a>] </li>
-  <li>From Contraction to Fixed-Point Algorithms [<a href="https://arxiv.org/abs/2110.03623">URL</a>] </li>
-</ul> 
-
-Parallel to contraction theory is the theory of monotone operators, which is closely tied to the study of convex optimization. In fact, it is known that the gradient of a strongly convex function is monotone and the negative gradient flow is strongly contracting. Indeed, there are many ties between contraction theory and monotone operator theory, but there are some subtle differences. For instance, many operator splitting schemes in monotone operator theory do not have a natural continuous-time analog that is contracting by design. In a different direction, I have also studied operators that are monotone with respect to a non-Euclidean norm and have demonstrated that many classical results from monotone operator theory carry over essentially for free. 
-
-<ul>
-  <li>Non-Euclidean Monotone Operator Theory [<a href="https://arxiv.org/abs/2204.01877">URL</a>] </li>
+  <li>Time-Varying Convex Optimization [<a href="https://arxiv.org/abs/2305.15595">URL</a>] </li>
 </ul>
     
 ***
-# Multi-Robot Coverage Control
+# Reliable control of complex systems
 
-Coverage control aims to address the problem of resource allocation within a domain of interest. For arbitrary domains and regions of interest, finding globally optimal resource allocation configurations is an NP-hard problem. My work has focused on using tools from computational geometry and network systems theory to give sufficient conditions on the optimality of a configuration of agents. Additionally, I am interested in the robustness of different coverage control strategies. One application that I have focused on is the deployment of a team of lower-mobility aerial vehicles to persistently measure wind data in a wind farm for better characterization of wind turbine wakes. 
+In this line of research, I am to address the following question: how should we leverage data and online computation to enable more reliable control of engineering systems? For many engineering systems, classical control methods such as PID control require extensive amounts of tuning and still struggle to compensate for model mismatch and the inherent instability of some tasks. In addressing this challenge, I have designed a novel imitation learning algorithm with global stability and robustness guarantees, even away from training data. Moreover, in Summer 2024, as part of my summer internship at Toyota Research Institute, I demonstrated that a combination of a learned dynamics model together with a nonlinear MPC strategy can enable strong empirical performance in unstable drifting tasks. I am actively working on learning robust controllers from data for unstable control tasks like car drifting.
 
 <ul>
-  <li>Sparsity Structure and Sufficient Condition for Optimality [<a href="https://davydovalexander.github.io/files/AD-YDM19.pdf">PDF</a>] </li>
-  <li>Equivalence with Leader-Follower Consensus [Link to-be added]</li>
-  <li>1D Robustness Guarantees and Application to Reach-Avoid Games [<a href="https://davydovalexander.github.io/files/AD-PRO-YDM20.pdf">PDF</a>] </li>
-  <li>Low-Mobility Atmospheric Sensing [<a href="https://doi.org/10.2514/6.2020-2821">DOI</a>] </li>
+  <li>Contractive dynamics for imitation learning [<a href="https://arxiv.org/abs/2402.08090">PDF</a>] </li>
+  <li>Reliable data-driven car drifting [Under NDA]</li>
+  <li>Multi-robot coverage control [<a href="https://davydovalexander.github.io/files/AD-YDM19.pdf">PDF</a>] </li>
 </ul> 
     
-## Sparsity Structure and Optimality of Multi-Robot Coverage Control
+## Research on sparsity structure and optimality of multi-robot coverage control
 <iframe src="https://www.youtube.com/embed/Zpz-Co44Zyg" width="480" height="270" ></iframe>
 
 <!-- <img src= "/images/foo-bar-identity-th.jpg" alt = "sample image"> -->
