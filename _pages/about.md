@@ -18,7 +18,7 @@ Outside of academics, I am a competitive chess player with titles of chess exper
 
 <b>Recent Updates</b>
 
-* November 2024: Our paper "Euclidean Contractivity of Neural Networks With Symmetric Weights" ([link](https://ieeexplore.ieee.org/abstract/document/10130086)) with Veronica Centorrino, Anand Gokhale, Giovanni Russo, and Francesco Bullo was awarded the 2024 IEEE Control Systems Letters Outstanding Paper Award!
+* December 2024: Our paper "Euclidean Contractivity of Neural Networks With Symmetric Weights" ([link](https://ieeexplore.ieee.org/abstract/document/10130086)) with Veronica Centorrino, Anand Gokhale, Giovanni Russo, and Francesco Bullo was awarded the 2024 IEEE Control Systems Letters Outstanding Paper Award!
 * November 2024: Our paper "Non-Euclidean Monotone Operator Theory and Applications" ([link](https://jmlr.org/papers/v25/23-0805.html)) has appeared in the Journal of Machine Learning Research!
 * October 2024: I gave a talk at UC Berkeley on contraction theory, optimization-based control, and imitation learning ([slides](https://davydovalexander.github.io/files/UCBerkeley-18oct24.pdf)).
 * September 2024: Our paper "Learning Neural Contracting Dynamics: Extended Linearization and Global Guarantees" ([link](https://arxiv.org/abs/2402.08090)) with Sean Jaffe, Deniz Lapsekili, Ambuj Singh, and Francesco Bullo was accepted to NeurIPS!
