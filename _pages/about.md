@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<b>I am an incoming Assistant Professor in mechanical engineering at Rice University and I am recruiting graduate students! Don't hesitate to reach out if you think your research interests overlap with mine!</b>
+
 I am a Ph.D. candidate in mechanical engineering at the University of California, Santa Barbara (UCSB) where I am advised by [Francesco Bullo](http://motion.me.ucsb.edu/). My research is on modern data-driven engineering problems at the intersection of control, machine learning, and optimization. I am broadly interested in robust nonlinear control theory and modern machine learning methods to enable reliable control of complex engineering systems. I was awarded the NSF Graduate Research Fellowship in Spring 2021. In Spring 2020, I graduated with a B.S. in mechanical engineering and a B.S. in mathematics from the University of Maryland (UMD). While at UMD, I worked with [Yancy Diaz-Mercado](https://eng.umd.edu/clark/faculty/900/Yancy-Diaz-Mercado) on multi-robot coverage control and its applications. 
 
 As a Ph.D. student, I interned at Toyota Research Institute. While an undergraduate student at UMD, I worked internships at NASA Goddard Space Flight Center, MIT Lincoln Lab, and The Johns Hopkins University Applied Physics Lab. 
