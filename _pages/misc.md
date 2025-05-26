@@ -2,7 +2,7 @@
 permalink: /misc/
 title: "Miscellanea"
 excerpt: "Miscellanea"
-author_profile: false
+author_profile: true
 
 ---
 
