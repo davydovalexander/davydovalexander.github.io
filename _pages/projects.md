@@ -37,8 +37,8 @@ Machine learning and optimization methods are increasingly being used for safety
 In this line of research, I am to address the following question: how should we leverage data and online computation to enable more reliable control of engineering systems? For many engineering systems, classical control methods such as PID control require extensive amounts of tuning and still struggle to compensate for model mismatch and the inherent instability of some tasks. In addressing this challenge, I have designed a novel imitation learning algorithm with global stability and robustness guarantees, even away from training data. Moreover, in Summer 2024, as part of my summer internship at Toyota Research Institute, I demonstrated that a combination of a learned dynamics model together with a nonlinear MPC strategy can enable strong empirical performance in unstable drifting tasks. I am actively working on learning robust controllers from data for unstable control tasks like car drifting.
 
 <ul>
-  <li>Contractive dynamics for imitation learning [<a href="https://arxiv.org/abs/2402.08090">PDF</a>] </li>
-  <li>Reliable data-driven car drifting [Under NDA]</li>
+  <li>Contractive dynamics for imitation learning [<a href="https://arxiv.org/abs/2402.08090">URL</a>] </li>
+  <li>Reliable data-driven car drifting [<a href="https://arxiv.org/abs/2411.00107">URL</a>]</li>
   <li>Multi-robot coverage control [<a href="https://davydovalexander.github.io/files/AD-YDM19.pdf">PDF</a>] </li>
 </ul> 
     
