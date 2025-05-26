@@ -8,18 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-<b>I am an incoming Assistant Professor in mechanical engineering at Rice University and I am recruiting graduate students! Don't hesitate to reach out if you think your research interests overlap with mine!</b>
-
-Currently, I am a Ph.D. candidate in mechanical engineering at the University of California, Santa Barbara (UCSB) where I am advised by [Francesco Bullo](http://motion.me.ucsb.edu/). My research is on modern data-driven engineering problems at the intersection of control, machine learning, and optimization. I am broadly interested in robust nonlinear control theory and modern machine learning methods to enable reliable control of complex engineering systems. I was awarded the NSF Graduate Research Fellowship in Spring 2021. In Spring 2020, I graduated with a B.S. in mechanical engineering and a B.S. in mathematics from the University of Maryland (UMD). While at UMD, I worked with [Yancy Diaz-Mercado](https://eng.umd.edu/clark/faculty/900/Yancy-Diaz-Mercado) on multi-robot coverage control and its applications. 
+I am a Ph.D. candidate in mechanical engineering at the University of California, Santa Barbara (UCSB) where I am advised by [Francesco Bullo](http://motion.me.ucsb.edu/). My research is on modern data-driven engineering problems at the intersection of control, machine learning, and optimization. I am broadly interested in robust nonlinear control theory and modern machine learning methods to enable reliable control of complex engineering systems. I was awarded the NSF Graduate Research Fellowship in Spring 2021. In Spring 2020, I graduated with a B.S. in mechanical engineering and a B.S. in mathematics from the University of Maryland (UMD). While at UMD, I worked with [Yancy Diaz-Mercado](https://eng.umd.edu/clark/faculty/900/Yancy-Diaz-Mercado) on multi-robot coverage control and its applications. 
 
 As a Ph.D. student, I interned at Toyota Research Institute. While an undergraduate student at UMD, I worked internships at NASA Goddard Space Flight Center, MIT Lincoln Lab, and The Johns Hopkins University Applied Physics Lab. 
-
-Outside of academics, I am a competitive chess player with titles of chess expert and candidate master and a US Chess Federation [rating of 2162](http://www.uschess.org/msa/MbrDtlMain.php?13928690). I am also an ultramarathon distance runner, having run a 50 mile race (and hoping to run other long-distance events in the future).
 
 <hr style="width:100%;text-align:left;margin-left:0;height:1px;border:none;color:#333;background-color:#333;">
 
 <b>Recent Updates</b>
 
+
+* <p style="border-width:3px; border-style:solid; border-color:#0000FF; padding: 1em;">May 2025: I am an incoming Assistant Professor in mechanical engineering at Rice University and I am recruiting graduate students! Don't hesitate to reach out if you think your research interests overlap with mine!</p>
 * December 2024: Our paper "Euclidean Contractivity of Neural Networks With Symmetric Weights" ([link](https://ieeexplore.ieee.org/abstract/document/10130086)) with Veronica Centorrino, Anand Gokhale, Giovanni Russo, and Francesco Bullo was awarded the 2024 IEEE Control Systems Letters Outstanding Paper Award!
 * November 2024: Our paper "Non-Euclidean Monotone Operator Theory and Applications" ([link](https://jmlr.org/papers/v25/23-0805.html)) has appeared in the Journal of Machine Learning Research!
 * October 2024: I gave a talk at UC Berkeley on contraction theory, optimization-based control, and imitation learning ([slides](https://davydovalexander.github.io/files/UCBerkeley-18oct24.pdf)).
