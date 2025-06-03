@@ -18,6 +18,8 @@ As a Ph.D. student, I interned at Toyota Research Institute. While an undergradu
 
 <b>Recent Updates</b>
 
+* June 2025: I have defended my Ph.D. thesis titled "Contraction Theory in Control, Learning, and Optimization" and am starting as an Assistant Professor at Rice University in the Department of Mechanical Engineering!
+* June 2025: Our paper "Time-varying convex optimization: A contraction and equilibrium tracking approach," ([link](https://ieeexplore.ieee.org/document/11021386)) has been published in the IEEE Transactions of Automatic Control! This is joint work with Veronica Centorrino, Anand Gokhale, Giovanni Russo, and Francesco Bullo.
 * December 2024: Our paper "Euclidean Contractivity of Neural Networks With Symmetric Weights" ([link](https://ieeexplore.ieee.org/abstract/document/10130086)) with Veronica Centorrino, Anand Gokhale, Giovanni Russo, and Francesco Bullo was awarded the 2024 IEEE Control Systems Letters Outstanding Paper Award!
 * November 2024: Our paper "Non-Euclidean Monotone Operator Theory and Applications" ([link](https://jmlr.org/papers/v25/23-0805.html)) has appeared in the Journal of Machine Learning Research!
 * October 2024: I gave a talk at UC Berkeley on contraction theory, optimization-based control, and imitation learning ([slides](https://davydovalexander.github.io/files/UCBerkeley-18oct24.pdf)).
