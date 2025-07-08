@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p style="border-width:3px; border-style:solid; border-color:#0000FF; padding: 1em;">I am joining Rice University in the Department of Mechanical Engineering as an Assistant Professor in July 2025 and I am recruiting graduate students! Don't hesitate to reach out if you think your research interests overlap with mine!</p>
-
-I am a Ph.D. candidate in mechanical engineering at the University of California, Santa Barbara (UCSB) where I am advised by [Francesco Bullo](http://motion.me.ucsb.edu/). My research is on modern data-driven engineering problems at the intersection of control, machine learning, and optimization. I am broadly interested in robust nonlinear control theory and modern machine learning methods to enable reliable control of complex engineering systems. I was awarded the NSF Graduate Research Fellowship in Spring 2021. In Spring 2020, I graduated with a B.S. in mechanical engineering and a B.S. in mathematics from the University of Maryland (UMD). While at UMD, I worked with [Yancy Diaz-Mercado](https://eng.umd.edu/clark/faculty/900/Yancy-Diaz-Mercado) on multi-robot coverage control and its applications. 
+Hello! My name is Sasha and I am as assistant professor in the [Department of Mechanical Engineering](https://mech.rice.edu/) at Rice University. My research is on modern data-driven engineering problems at the intersection of <b>control, machine learning, and optimization</b>. I am broadly interested in robust nonlinear control theory and modern machine learning methods to enable the reliable control of complex engineering systems. I am fascinated by systems where classical control methods fail to provide the desired performance and am excited about developing new control strategies for these systems. I was awarded my Ph.D. in mechanical engineering at the University of California, Santa Barbara (UCSB) where I was advised by [Francesco Bullo](http://motion.me.ucsb.edu/). As a Ph.D. student, I was awarded the NSF Graduate Research Fellowship and the UCSB Chancellor's Fellowship. In Spring 2020, I graduated with a B.S. in mechanical engineering and a B.S. in mathematics from the University of Maryland (UMD). 
 
 As a Ph.D. student, I interned at Toyota Research Institute. While an undergraduate student at UMD, I worked internships at NASA Goddard Space Flight Center, MIT Lincoln Lab, and The Johns Hopkins University Applied Physics Lab. 
 
@@ -18,7 +16,7 @@ As a Ph.D. student, I interned at Toyota Research Institute. While an undergradu
 
 <b>Recent Updates</b>
 
-* June 2025: I have defended my Ph.D. thesis titled "Contraction Theory in Control, Learning, and Optimization" and am starting as an Assistant Professor at Rice University in the Department of Mechanical Engineering!
+* June 2025: I have defended my Ph.D. thesis titled "Contraction Theory in Control, Learning, and Optimization" ([pdf](https://motion.me.ucsb.edu/pdf/phd-ad-jun25.pdf)) and am starting as an Assistant Professor at Rice University in the Department of Mechanical Engineering!
 * June 2025: Our paper "Time-varying convex optimization: A contraction and equilibrium tracking approach," ([link](https://ieeexplore.ieee.org/document/11021386)) has been published in the IEEE Transactions of Automatic Control! This is joint work with Veronica Centorrino, Anand Gokhale, Giovanni Russo, and Francesco Bullo.
 * December 2024: Our paper "Euclidean Contractivity of Neural Networks With Symmetric Weights" ([link](https://ieeexplore.ieee.org/abstract/document/10130086)) with Veronica Centorrino, Anand Gokhale, Giovanni Russo, and Francesco Bullo was awarded the 2024 IEEE Control Systems Letters Outstanding Paper Award!
 * November 2024: Our paper "Non-Euclidean Monotone Operator Theory and Applications" ([link](https://jmlr.org/papers/v25/23-0805.html)) has appeared in the Journal of Machine Learning Research!
