@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alexander Davydov"
+title                    : "Alexander (Sasha) Davydov"
 title_separator          : "-"
-name                     : &name "ADD"
+name                     : &name "Sasha Davydov"
 description              : &description "personal description"
 url                      : https://davydovalexander.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alexander Davydov"
   avatar           : "alexander-davydov.jpg"
-  bio              : "Incoming Assistant Professor at Rice University"
+  bio              : "Assistant Professor at Rice University"
   location         : "Houston, TX"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
