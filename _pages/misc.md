@@ -13,6 +13,7 @@ author_profile: true
 <b>Reading:</b> I am an avid reader of both fiction and non-fiction. Some recent books I have enjoyed include:
 * Fooled by Randomness - Nassim Taleb (Non-Fiction, Economics and Probability)
 * Thinking, Fast and Slow - Daniel Kahneman (Non-Fiction, Behavioral Psychology)
+* Never Let Me Go - Kazuo Ishiguro (Literary Fiction)
 * Cat's Cradle - Kurt Vonnegut Jr. (Satire and Science Fiction)
 * Stories of Your Life and Others - Ted Chiang (Science Fiction)
 
