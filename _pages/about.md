@@ -16,6 +16,7 @@ As a Ph.D. student, I interned at Toyota Research Institute. While an undergradu
 
 <b>Recent Updates</b>
 
+* August 2025: Our paper "First, Learn What You Don't Know: Active Information Gathering for Driving At the Limits of Handling," ([link](https://ieeexplore.ieee.org/document/11146591)) has been published in the IEEE Robotics and Automation Letters! This is work that I completed at Toyota Research Institute in collaboration with Franck Djeumou, Marcus Greiff, Makoto Suminaka, Michael Thompson, John Subosits, and Thomas Lew.
 * June 2025: I have defended my Ph.D. thesis titled "Contraction Theory in Control, Learning, and Optimization" ([pdf](https://motion.me.ucsb.edu/pdf/phd-ad-jun25.pdf)) and am starting as an Assistant Professor at Rice University in the Department of Mechanical Engineering!
 * June 2025: Our paper "Time-varying convex optimization: A contraction and equilibrium tracking approach," ([link](https://ieeexplore.ieee.org/document/11021386)) has been published in the IEEE Transactions of Automatic Control! This is joint work with Veronica Centorrino, Anand Gokhale, Giovanni Russo, and Francesco Bullo.
 * December 2024: Our paper "Euclidean Contractivity of Neural Networks With Symmetric Weights" ([link](https://ieeexplore.ieee.org/abstract/document/10130086)) with Veronica Centorrino, Anand Gokhale, Giovanni Russo, and Francesco Bullo was awarded the 2024 IEEE Control Systems Letters Outstanding Paper Award!
