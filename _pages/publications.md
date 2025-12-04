@@ -12,22 +12,24 @@ author_profile: true
 
 <h2>2025</h2>
 <ul>
+<li><span class="bibtex-protected"><span class="bibtex-protected"><b>A. Davydov</b></span></span>.
+Verifying closed-loop contractivity of learning-based controllers via partitioning.
+In <em>Asilomar Conference on Signals, Systems, and Computers</em>. 2025.
+Invited Session; To Appear.
+URL: <a href="https://arxiv.org/abs/2512.02262">https://arxiv.org/abs/2512.02262</a>.</li>
 <li><span class="bibtex-protected"><span class="bibtex-protected"><b>A. Davydov</b></span></span>, V. Centorrino, A. Gokhale, G. Russo, and F. Bullo.
 Time-varying convex optimization: <span class="bibtex-protected">A</span> contraction and equilibrium tracking approach.
-<em>IEEE Transactions on Automatic Control</em>, 2025.
-To Appear.
+<em>IEEE Transactions on Automatic Control</em>, 70(11):7446–7460, 2025.
 <a href="https://doi.org/10.1109/TAC.2025.3576043">doi:10.1109/TAC.2025.3576043</a>.</li>
 <li><span class="bibtex-protected"><span class="bibtex-protected"><b>A. Davydov</b></span></span>, F. Djeumou, M. Greiff, M. Suminaka, M. Thompson, J. Subosits, and T. Lew.
 First, learn what you don’t know: <span class="bibtex-protected">A</span>ctive information gathering for driving at the limits of handling.
-<em>IEEE Robotics and Automation Letters</em>, 2025.
-To Appear.
-URL: <a href="https://arxiv.org/abs/2411.00107">https://arxiv.org/abs/2411.00107</a>.</li>
+<em>IEEE Robotics and Automation Letters</em>, 10(11):11379–11386, 2025.
+<a href="https://doi.org/10.1109/LRA.2025.3605097">doi:10.1109/LRA.2025.3605097</a>.</li>
 <li><span class="bibtex-protected"><span class="bibtex-protected"><b>A. Davydov</b></span></span>, A. V. Proskurnikov, and F. Bullo.
 <span class="bibtex-protected">Non-Euclidean</span> contraction analysis of continuous-time neural networks.
 <em>IEEE Transactions on Automatic Control</em>, 70(1):235–250, 2025.
 <a href="https://doi.org/10.1109/TAC.2024.3422217">doi:10.1109/TAC.2024.3422217</a>.</li>
-</ul>
-<h2>2024</h2>
+</ul><h2>2024</h2>
 <ul>
 <li>V. Centorrino, A. Gokhale, <span class="bibtex-protected"><span class="bibtex-protected"><b>A. Davydov</b></span></span>, G. Russo, and F. Bullo.
 Positive competitive networks for sparse reconstruction.
