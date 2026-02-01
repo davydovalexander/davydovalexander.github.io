@@ -20,6 +20,7 @@ author_profile: true
 * Never Let Me Go - Kazuo Ishiguro (Literary Fiction)
 * Cat's Cradle - Kurt Vonnegut Jr. (Satire and Science Fiction)
 * Stories of Your Life and Others - Ted Chiang (Science Fiction)
+
 Visit my [Goodreads profile](https://www.goodreads.com/user/show/178904138-sasha-davydov) if you want to see what I'm reading.
 
 <b>Music:</b> I listen to an eclectic mix of music and enjoy going to concerts. Some albums I have enjoyed include:
