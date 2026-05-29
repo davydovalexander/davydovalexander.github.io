@@ -18,6 +18,7 @@ As a Ph.D. student, I interned at Toyota Research Institute. While an undergradu
 
 <b>Recent Updates</b>
 
+* May 2026: I was awarded the 2026 Lancaster Dissertation Award in Math, Physical Sciences, & Engineering at UCSB! Read the [interview](https://www.graddiv.ucsb.edu/2026-lancaster-alexander-davydov) here!
 * April 2026: I am giving a [seminar](https://oden.utexas.edu/news-and-events/events/2256---Alexander%20(Sasha)%20Davydov/) at the Oden Institute at UT Austin. The talk title is Machine Learning for Improved Dynamical Models and Certified Control!
 * October 2025: I was awarded the 2025 Best Ph.D. Dissertation Award from the UCSB Department of Mechanical Engineering! Thank you to everyone who has supported me along the way!
 * August 2025: Our paper "First, Learn What You Don't Know: Active Information Gathering for Driving At the Limits of Handling," ([link](https://ieeexplore.ieee.org/document/11146591)) has been published in the IEEE Robotics and Automation Letters! This is work that I completed at Toyota Research Institute in collaboration with Franck Djeumou, Marcus Greiff, Makoto Suminaka, Michael Thompson, John Subosits, and Thomas Lew.
