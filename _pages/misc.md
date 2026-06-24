@@ -29,6 +29,6 @@ Visit my [Goodreads profile](https://www.goodreads.com/user/show/178904138-sasha
 * The Whirlwind - Transatlantic (Progressive Rock)
 * It's Not That Deep - Demi Lovato (Pop)
 
-Take a look at [what concerts I've been too recently](https://docs.google.com/spreadsheets/d/1wrvRTXpFFRe_xCdwgO52Lf8orCZLChTOPg2WSUAye9k/edit?usp=sharing).
+Take a look at [what concerts I've been to recently](https://docs.google.com/spreadsheets/d/1wrvRTXpFFRe_xCdwgO52Lf8orCZLChTOPg2WSUAye9k/edit?usp=sharing).
 
 <b>Juggling:</b> I have been juggling since 2019 and I regularly go to Houston Jugglers meetups. I can juggle 5 balls but I prefer passing clubs with a partner. In the past, I have juggled knives and torches.
